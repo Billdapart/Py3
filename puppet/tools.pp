@@ -1,6 +1,0 @@
-
-
-package { 'htop':
-  ensure => present,
-}
-
